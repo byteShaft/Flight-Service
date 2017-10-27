@@ -19,6 +19,9 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        if (SplashScreen.getInstance() != null) {
+            SplashScreen.getInstance().finish();
+        }
         setContentView(R.layout.activity_main);
         AviasalesSDK.getInstance().init(this, new SdkConfig(MARKER, TRAVEL_PAYOUTS_TOKEN, SDK_HOST));
         initFragment();
