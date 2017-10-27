@@ -3,4 +3,15 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="aviasales_results_background">@color/grey_background</color>
+    <color name="aviasales_search_form_background">@color/white</color>
+    <color name="aviasales_filters_background">@color/white</color>
+
+    <color name="aviasales_select_airport_background">@color/white</color>
+    <color name="aviasales_ticket_background">@color/grey_background</color>
+
+    <color name="aviasales_results_card_color">@color/white</color>
+    <color name="aviasales_price_color">@color/yellow_FDCC50</color>
+
 </resources>
