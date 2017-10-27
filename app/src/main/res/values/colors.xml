@@ -1,17 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#424447</color>
+    <color name="colorPrimaryDark">#424447</color>
+    <color name="colorAccent">#FC9F02</color>
 
-    <color name="aviasales_results_background">@color/grey_background</color>
-    <color name="aviasales_search_form_background">@color/white</color>
-    <color name="aviasales_filters_background">@color/white</color>
 
-    <color name="aviasales_select_airport_background">@color/white</color>
-    <color name="aviasales_ticket_background">@color/grey_background</color>
+    <color name="grey_37474F">@color/grey_B3BDBDBD</color>
+    <color name="grey_98000000">#98000000</color>
+    <color name="grey_E4E4E4">#E4E4E4</color>
+    <color name="grey_B3BDBDBD">#B3BDBDBD</color>
+    <color name="grey_B3555555">#B3555555</color>
+    <color name="grey_FAFAFA">#FAFAFA</color>
+    <color name="grey_455A64">@color/grey_626262</color>
+    <color name="grey_626262">#626262</color>
+    <color name="grey_ECECEC">@color/colorPrimary</color>
+    <color name="grey_DADADA">#DADADA</color>
+    <color name="grey_90A4AE">#90A4AE</color>
+    <color name="grey_7D9099">#7D9099</color>
 
-    <color name="aviasales_results_card_color">@color/white</color>
-    <color name="aviasales_price_color">@color/yellow_FDCC50</color>
+        <color name="gray_88333333">#88333333</color>
+
+        <color name="white">#FFFFFF</color>
+        <color name="yellow_FDCC50">#FDCC50</color>
+
+        <color name="blue_00B0DD">@color/colorPrimary</color>
+        <color name="blue_009DC5">@color/colorPrimary</color>
+
+        <color name="gray_blue">@color/white</color>
+        <color name="gray_blue_dark">@color/white</color>
+
+        <color name="black_000000_opacity_12">@color/white</color>
+
+        <color name="grey_selector">@color/grey_B3BDBDBD</color>
+
+        <color name="grey_background">@color/white</color>
+
+        <color name="dark_blue_455A64">@color/white</color>
+
+        <color name="grey_text">#37474F</color>
+        <color name="light_grey_text">@color/grey_98000000</color>
+
+        <color name="gray_divider">@color/grey_E4E4E4</color>
+        <color name="dark_blue_text">@color/white</color>
+
+        <color name="blue_main">#FC9F02</color>
+        <color name="blue_main_dark">#FC9F02</color>
+        <color name="action_bar_color">@color/gray_blue</color>
+
+        <color name="white_selector">@color/grey_B3BDBDBD</color>
+
+        <color name="progress_bar_active">@color/colorAviasalesMain</color>
+
+        <color name="black_000000_opacity_50">#7F000000</color>
+
+        <color name="green_72D572">@color/colorAccent</color>
+        <color name="green_A6E6A6">@color/colorAccent</color>
+        <color name="gray_B3B3B3">@color/white</color>
+        <color name="gray_DBDBDB">@color/white</color>
+
+        <color name="gray_CACACA">@color/white</color>
+        <color name="gray_757575">@color/white</color>
+        <color name="gray_797979">@color/white</color>
+
+        <color name="colorAsPrimary">@color/white</color>
+        <color name="colorAsPrimaryDark">@color/white</color>
+        <color name="colorAviasalesMain">#FC9F02</color>
+
+        <color name="aviasales_results_background">@color/colorPrimary</color>
+        <color name="aviasales_search_form_background">@color/colorPrimary</color>
+        <color name="aviasales_filters_background">@color/colorPrimary</color>
+
+        <color name="aviasales_select_airport_background">@color/colorPrimary</color>
+        <color name="aviasales_ticket_background">@color/colorPrimary</color>
+
+            <color name="aviasales_results_card_color">@color/colorPrimary</color>
+        <color name="aviasales_price_color">@color/colorPrimary</color>
+
 
 </resources>

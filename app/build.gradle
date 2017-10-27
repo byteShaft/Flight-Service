@@ -31,3 +31,5 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'ru.aviasales.template:aviasalesSdkTemplate:2.1.10'
 }
+
+apply plugin: 'com.google.gms.google-services'

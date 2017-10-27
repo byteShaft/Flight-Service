@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "965366361495",
-    "firebase_url": "https://flight-booking-622b9.firebaseio.com",
-    "project_id": "flight-booking-622b9",
-    "storage_bucket": "flight-booking-622b9.appspot.com"
+    "project_number": "644753872500",
+    "firebase_url": "https://flight-booking-1cd65.firebaseio.com",
+    "project_id": "flight-booking-1cd65",
+    "storage_bucket": "flight-booking-1cd65.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:965366361495:android:7e247e00462a0ebd",
+        "mobilesdk_app_id": "1:644753872500:android:7e247e00462a0ebd",
         "android_client_info": {
           "package_name": "com.byteshaft.hotelbooking"
         }
       },
       "oauth_client": [
         {
-          "client_id": "965366361495-p5b7pa2ljmolndlp19fl9favmnqs8haf.apps.googleusercontent.com",
+          "client_id": "644753872500-55nntsdog5fp92nip3ft08cj1erhqajo.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAyhdHEtzot8T5gqsJJ22RFAiVe-thEWms"
+          "current_key": "AIzaSyBwUy2RBKJVvPBqrdFDe-Pr4llnvjufWl0"
         }
       ],
       "services": {

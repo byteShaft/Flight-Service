@@ -8,4 +8,12 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="search.title_button">
+        <item name="android:textSize">14dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:gravity">center</item>
+        <item name="typeface">roboto_regular</item>
+        <item name="android:textColor">#9BA9C9</item>
+    </style>
+
 </resources>
