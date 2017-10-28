@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="trip_class_economy">Economia</string>
+    <string name="trip_class_business">Attività commerciale</string>
+    <string name="trip_class_premium_economy">Premium Economy</string>
+
+    <string name="search_toast_destinations">Inserisci l\'origine e la destinazione</string>
+    <string name="search_toast_destinations_equality">Sei arrivato! Assolutamente gratis :)</string>
+    <string name="search_toast_depart_date">Data di partenza</string>
+    <string name="search_toast_return_date">Data di ritorno o disattivazione del volo di ritorno</string>
+    <string name="search_toast_wrong_depart_date">La data di partenza non può essere prima di oggi</string>
+    <string name="search_toast_wrong_return_date">La data di ritorno non può essere prima di oggi</string>
+    <string name="search_toast_return_date_less_than_depart">La data di ritorno non può essere precedente alla data di partenza</string>
+    <string name="search_toast_dates_more_than_1year">Non possiamo cercare i biglietti più di un anno in anticipo</string>
+    <string name="search_no_internet_connection">Nessuna connessione Internet</string>
+    <string name="search_toast_infants_regulations">Il numero di neonati in giro non può essere superiore al numero di adulti</string>
+
+    <string name="pass_picker_title">Selezionare i passeggeri</string>
+    <string name="pass_picker_adult">oltre 12 anni</string>
+    <string name="pass_picker_child">Da 2 a 12 anni</string>
+    <string name="pass_picker_infant">sotto 2</string>
+    <string name="ok">OK</string>
+
+    <string name="trip_class_picker_passengers">Classe</string>
+
+    <string name="destination_no_results">nessun risultato trovato</string>
+
+    <string name="destination_any_airport">Qualsiasi aeroporto</string>
+
+    <string name="please_wait">attendere prego</string>
+    <string name="loading">Caricamento in corso</string>
+
+    <string name="toast_error_unknown">Qualcosa è sbagliato. Per favore riprova più tardi.</string>
+
+    <string name="signature_toast">403 Proibito: probabilmente segnale sbagliato o marcatore api.</string>
+    <string name="alert_no_results">Nessun risultato trovato. Prova a modificare i parametri di ricerca</string>
+    <string name="toast_error_connection">Errore di ricerca dei biglietti. Per favore controlla la tua connessione Internet.</string>
+    <string name="toast_error_api">Errore del server di ricerca dei biglietti. Per favore riprova più tardi.</string>
+
+    <string name="menu_filters">filtri</string>
+    <string name="menu_sort">Ordinare</string>
+
+    <string name="toast_no_search_results">\"Le informazioni sui biglietti non sono aggiornate</string>
+
+    <string name="filters_reset">RESET FILTRI</string>
+    <string name="stop_over_filter_view_without">Diretto</string>
+    <string name="base_filter_price">Prezzo</string>
+    <string name="base_filter_all_flight">Tempo di percorrenza</string>
+    <string name="base_filter_stop_over">Durata di arresto</string>
+    <string name="stop_over">Fermate</string>
+    <string name="results_flight_time">Durata</string>
+    <string name="range_flight_from">Tempo di partenza in uscita</string>
+    <string name="range_flight_return">Restituisce il tempo di decollo</string>
+    <string name="filters_price">fino a %s</string>
+    <string name="filters_hours_and_minutes">fino a %1$02d h %2$02d min</string>
+    <string name="range_from">a partire dal</string>
+    <string name="range_with">a partire dal</string>
+    <string name="range_to">a</string>
+
+    <string name="ab_title_filters">filtri</string>
+    <string name="select_all">Seleziona tutto</string>
+    <string name="select_all_alliances">Tutte le compagnie aeree</string>
+    <string name="alliances">alleanze</string>
+    <string name="airlines">Airlines</string>
+    <string name="airports">aeroporti</string>
+    <string name="agencies">agenzie</string>
+
+    <string name="dash">—</string>
+
+    <string name="hour_short">h</string>
+    <string name="minute_short">m</string>
+    <string-array name="months_short_3">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="weeks_short_2">
+        <item></item>
+        <item>@string/week_day_short_sunday</item>
+        <item>@string/week_day_short_monday</item>
+        <item>@string/week_day_short_tuesday</item>
+        <item>@string/week_day_short_wednesday</item>
+        <item>@string/week_day_short_thursday</item>
+        <item>@string/week_day_short_friday</item>
+        <item>@string/week_day_short_saturday</item>
+    </string-array>
+    <string name="week_day_short_monday">Mon</string>
+    <string name="week_day_short_tuesday">Tue</string>
+    <string name="week_day_short_wednesday">Wed</string>
+    <string name="week_day_short_thursday">Thu</string>
+    <string name="week_day_short_friday">Fri</string>
+    <string name="week_day_short_saturday">Sat</string>
+    <string name="week_day_short_sunday">Sun</string>
+
+    <string name="ticket_buy_btn_txt_full">COMPRARE UN BIGLIETTO</string>
+
+    <string name="ticket_alert_results_old">I risultati di ricerca possono essere obsoleti</string>
+    <string name="ticket_alert_update">Aggiornare</string>
+    <string name="ticket_alert_return">Cercare</string>
+
+    <string name="agency_adapter_server_error">Errore di risposta del server.</string>
+    <string name="ticket_refresh_dates_passed">Le date di ricerca sono passate. Inserisci nuove date.</string>
+
+    <string name="test_pass_picker_num">0</string>
+
+    <string name="browser_backward">Indietro</string>
+    <string name="browser_forward">Il prossimo</string>
+    <string name="browser_loading_agency">Contattare il sito web del partner %s</string>
+    <string name="browser_title">Acquista: %s</string>
+    <string name="dialog_finish">FATTO</string>
+    <string name="search_form_class">Classe</string>
+    <string name="search_form_depart_date_default">Data di partenza</string>
+    <string name="search_form_return_date_default">Data di ritorno</string>
+    <string name="search_form_depart_city_default">ORIGINE</string>
+    <string name="search_form_destination_city_default">DESTINAZIONE</string>
+    <string name="search_form_airport_default">AEROPORTO</string>
+    <string name="filters_another_alliances">Le compagnie aeree che non fanno parte di un'alleanza</string>
+    <string name="search_form_passengers_title">viaggiatori</string>
+    <string name="search_form_search_button">Cerca i biglietti</string>
+    <string name="select_airport_any_airport">QUALSIASI AEROPORTO</string>
+
+    <string name="stop_over_filter_title">Fermate</string>
+    <string name="overnight_filter_view_airport">Possibile sosta notturna</string>
+
+    <string name="results_sorting_dialog_title">Ordina per</string>
+    <string name="sorting_by_price">Prezzo</string>
+    <string name="sorting_by_departure">Partenza</string>
+    <string name="sorting_by_arrival">Arrival</string>
+    <string name="sorting_by_departure_on_return">Restituisce il tempo di decollo</string>
+    <string name="sorting_by_arrival_on_return">Arrivo di ritorno</string>
+    <string name="sorting_by_duration">Durata</string>
+    <string name="sorting_by_rating">Valutazione</string>
+    <string name="stop_over_filter_view_one">Una fermata</string>
+    <string name="stop_over_filter_view_twoplus">Due fermate</string>
+    <string name="currency_dialog_title">Moneta</string>
+    <string name="dot">•</string>
+    <string name="dots">•••</string>
+    <string name="results_no_transfers">—</string>
+    <string name="week_day">giorno della settimana</string>
+    <string name="empty_view_results_title">Nothing is left after your filtering.</string>
+    <string name="empty_view_results_button">reimposta i filtri</string>
+
+    <plurals name="found_tickets">
+        <item quantity="one">fuori da %d biglietto</item>
+        <item quantity="other">fuori da %d biglietto</item>
+    </plurals>
+
+    <string name="filters_morning">Mattina</string>
+    <string name="filters_day">Giorno</string>
+    <string name="filters_evening">Sera</string>
+
+    <string name="searching_information">Searching for tickets...</string>
+
+    <string name="ticket_flight_text">Volo</string>
+
+    <string name="search_form_complex_search_add">Inserisci</string>
+    <string name="search_form_complex_search_remove">Elimina</string>
+
+    <string name="search_form_tab_simple">semplice</string>
+    <string name="search_form_tab_complex">complesso</string>
+
+    <string name="results_flight_date">Data</string>
+
+    <string name="ticket_title_agency">sopra %1$s</string>
+
+    <string name="filter_payment_method_exp">Corriere</string>
+    <string name="filter_payment_method_euroset">Euroset</string>
+    <string name="filter_payment_method_cash">Contanti</string>
+    <string name="filter_payment_method_card">Carta di credito</string>
+    <string name="filter_payment_method_yandex_money">Denaro Yandex</string>
+    <string name="filter_payment_method_webmoney">WebMoney</string>
+    <string name="filter_payment_method_terminal">Terminal di pagamento</string>
+    <string name="filter_payment_method_svyaznoy">Svyaznoy</string>
+    <string name="filter_payment_method_elexnet">Elexnet</string>
+    <string name="filter_payment_method_bank">trasferimento bancario</string>
+    <string name="filter_payment_method_contact">contatto</string>
+
+    <string name="clear_filters_ticket_count">Biglietti trovati:</string>
+
+    <string name="clear_filters">Clear</string>
+    <string name="apply_filters">Applica filtri</string>
+    <string name="pay_type">Opzioni di pagamento</string>
+    <string name="base_filter_stop_over_count">Layovers</string>
+    <string name="base_filter_landing">A</string>
+    <string name="base_filter_landing_back">Tempo di arrivo di ritorno</string>
+
+</resources>
