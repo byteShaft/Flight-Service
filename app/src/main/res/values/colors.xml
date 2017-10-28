@@ -33,15 +33,15 @@
 
         <color name="grey_selector">@color/grey_B3BDBDBD</color>
 
-        <color name="grey_background">@color/white</color>
+        <color name="grey_background">@color/grey_B3BDBDBD</color>
 
-        <color name="dark_blue_455A64">@color/white</color>
+        <color name="dark_blue_455A64">@color/black_000000_opacity_50</color>
 
-        <color name="grey_text">#37474F</color>
+        <color name="grey_text">@color/grey_B3BDBDBD</color>
         <color name="light_grey_text">@color/grey_98000000</color>
 
-        <color name="gray_divider">@color/grey_E4E4E4</color>
-        <color name="dark_blue_text">@color/white</color>
+        <color name="gray_divider">@color/grey_B3BDBDBD</color>
+        <color name="dark_blue_text">@color/grey_B3BDBDBD</color>
 
         <color name="blue_main">#FC9F02</color>
         <color name="blue_main_dark">#FC9F02</color>
@@ -58,17 +58,17 @@
         <color name="gray_B3B3B3">@color/white</color>
         <color name="gray_DBDBDB">@color/white</color>
 
-        <color name="gray_CACACA">@color/white</color>
-        <color name="gray_757575">@color/white</color>
-        <color name="gray_797979">@color/white</color>
+        <color name="gray_CACACA">@color/grey_B3BDBDBD</color>
+        <color name="gray_757575">@color/grey_B3BDBDBD</color>
+        <color name="gray_797979">@color/grey_B3BDBDBD</color>
 
-        <color name="colorAsPrimary">@color/white</color>
-        <color name="colorAsPrimaryDark">@color/white</color>
+        <color name="colorAsPrimary">@color/colorPrimary</color>
+        <color name="colorAsPrimaryDark">@color/colorPrimaryDark</color>
         <color name="colorAviasalesMain">#FC9F02</color>
 
-        <color name="aviasales_results_background">@color/colorPrimary</color>
-        <color name="aviasales_search_form_background">@color/colorPrimary</color>
-        <color name="aviasales_filters_background">@color/colorPrimary</color>
+        <color name="aviasales_results_background">#545659</color>
+        <color name="aviasales_search_form_background">#545659</color>
+        <color name="aviasales_filters_background">#545659</color>
 
         <color name="aviasales_select_airport_background">@color/colorPrimary</color>
         <color name="aviasales_ticket_background">@color/colorPrimary</color>
