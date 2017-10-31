@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flight Booking</string>
+    <string name="app_name">Traveler Create</string>
 
     <string name="trip_class_economy">Economy</string>
     <string name="trip_class_business">Business</string>

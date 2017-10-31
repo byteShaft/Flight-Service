@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Traveler Create</string>
     <string name="trip_class_economy">Economia</string>
     <string name="trip_class_business">Attività commerciale</string>
     <string name="trip_class_premium_economy">Premium Economy</string>
