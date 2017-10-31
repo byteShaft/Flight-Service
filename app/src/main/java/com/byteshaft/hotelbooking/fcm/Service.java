@@ -39,9 +39,7 @@ public class Service extends FirebaseMessagingService {
         Intent intent = new Intent(this, MainActivity.class);
         PendingIntent pendingIntent = PendingIntent.getActivity(this, APPOINTMENT_NOTIFICATION_ID, intent,
                 PendingIntent.FLAG_ONE_SHOT);
-
         Uri defaultSoundUri = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION);
-
         NotificationCompat.Builder notificationBuilder = new NotificationCompat.Builder(this)
                 .setSmallIcon(R.mipmap.icon_sdk_app)
                 .setLargeIcon(BitmapFactory.decodeResource(this.getResources() ,R.mipmap.icon_sdk_app))
